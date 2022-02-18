@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/YaoHuangMark/YaoHuangMark"><img src="suolong.jpeg" alt="markhuang"></a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://github.com/YaoHuangMark/YaoHuangMark">Mark Huang</a>!</h1>
+<h1 align="center">Welcome to my GitHub 🚀</h1>
+
+<p align="center">
+  <a href="https://github.com/YaoHuangMark"><img src="https://github-readme-stats.vercel.app/api?username=YaoHuangMark&hide_border=true&show_icons=true" alt="YaoHuangMark's github stats"></a>
+</p>
 
 <!--
 **YaoHuangMark/YaoHuangMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
